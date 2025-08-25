@@ -1,0 +1,1022 @@
+,Age,Gender,Flavour
+0,6,1,Chocolate
+1,6,0,Strawberry
+2,7,1,Chocolate
+3,8,0,Strawberry
+4,11,1,Butterscotch
+5,10,0,Butterscotch
+6,12,1,Butterscotch
+7,14,0,Vanilla
+8,15,1,Mango
+9,15,0,Vanilla
+10,17,1,Mango
+11,16,0,Butterscotch
+12,19,1,Almond & Chocolate
+13,18,0,Butterscotch
+14,20,1,Almond & Chocolate
+15,20,0,Butterscotch
+16,21,1,Coffee
+17,22,0,Coffee
+18,24,1,Almond & Chocolate
+19,24,0,Coffee
+20,13,0,Mango
+21,19,0,Almond & Chocolate
+22,15,1,Mango
+23,15,1,Vanilla
+24,17,1,Butterscotch
+25,18,1,Mango
+26,24,1,Almond & Chocolate
+27,23,0,Almond & Chocolate
+28,21,1,Almond & Chocolate
+29,8,1,Strawberry
+30,7,1,Strawberry
+31,18,0,Mango
+32,13,0,Vanilla
+33,17,0,Mango
+34,21,1,Coffee
+35,15,1,Butterscotch
+36,9,0,Butterscotch
+37,20,0,Almond & Chocolate
+38,20,0,Coffee
+39,6,0,Chocolate
+40,10,1,Strawberry
+41,23,0,Coffee
+42,7,1,Strawberry
+43,19,1,Almond & Chocolate
+44,14,0,Mango
+45,6,0,Strawberry
+46,11,0,Butterscotch
+47,13,1,Mango
+48,24,1,Coffee
+49,17,1,Butterscotch
+50,6,0,Strawberry
+51,21,0,Coffee
+52,16,0,Butterscotch
+53,7,1,Strawberry
+54,12,0,Strawberry
+55,19,1,Butterscotch
+56,11,0,Strawberry
+57,8,0,Chocolate
+58,14,1,Butterscotch
+59,9,0,Butterscotch
+60,17,0,Butterscotch
+61,23,0,Butterscotch
+62,18,0,Mango
+63,8,0,Chocolate
+64,7,0,Chocolate
+65,9,1,Butterscotch
+66,19,0,Butterscotch
+67,15,0,Vanilla
+68,12,1,Strawberry
+69,13,1,Mango
+70,16,0,Mango
+71,10,0,Strawberry
+72,19,0,Butterscotch
+73,21,0,Butterscotch
+74,21,1,Coffee
+75,15,0,Mango
+76,17,1,Butterscotch
+77,9,0,Butterscotch
+78,19,0,Coffee
+79,9,0,Strawberry
+80,19,1,Butterscotch
+81,15,0,Butterscotch
+82,18,0,Butterscotch
+83,16,1,Mango
+84,10,1,Strawberry
+85,8,1,Chocolate
+86,6,1,Chocolate
+87,16,0,Butterscotch
+88,7,1,Chocolate
+89,22,0,Coffee
+90,14,1,Mango
+91,24,1,Butterscotch
+92,24,1,Coffee
+93,19,1,Coffee
+94,19,1,Butterscotch
+95,22,1,Almond & Chocolate
+96,13,1,Mango
+97,23,1,Almond & Chocolate
+98,17,1,Mango
+99,22,0,Coffee
+100,7,0,Chocolate
+101,21,0,Butterscotch
+102,23,0,Coffee
+103,6,0,Chocolate
+104,11,0,Strawberry
+105,10,0,Butterscotch
+106,8,0,Strawberry
+107,6,1,Chocolate
+108,14,1,Butterscotch
+109,11,1,Strawberry
+110,10,0,Butterscotch
+111,18,0,Butterscotch
+112,10,0,Butterscotch
+113,16,0,Mango
+114,24,0,Butterscotch
+115,10,0,Butterscotch
+116,21,1,Almond & Chocolate
+117,13,1,Butterscotch
+118,22,0,Almond & Chocolate
+119,14,0,Mango
+120,20,0,Butterscotch
+121,11,1,Strawberry
+122,17,1,Mango
+123,20,1,Butterscotch
+124,11,1,Strawberry
+125,8,0,Chocolate
+126,24,1,Almond & Chocolate
+127,7,0,Chocolate
+128,14,0,Vanilla
+129,12,1,Butterscotch
+130,13,1,Mango
+131,13,1,Butterscotch
+132,21,1,Almond & Chocolate
+133,19,1,Almond & Chocolate
+134,13,1,Mango
+135,13,1,Mango
+136,23,1,Butterscotch
+137,20,1,Butterscotch
+138,12,0,Butterscotch
+139,14,0,Mango
+140,12,1,Strawberry
+141,16,0,Mango
+142,17,0,Mango
+143,9,0,Butterscotch
+144,19,0,Coffee
+145,14,1,Vanilla
+146,22,1,Almond & Chocolate
+147,17,1,Butterscotch
+148,10,1,Butterscotch
+149,12,0,Butterscotch
+150,16,1,Mango
+151,17,1,Mango
+152,13,1,Vanilla
+153,9,1,Butterscotch
+154,21,0,Almond & Chocolate
+155,13,1,Vanilla
+156,14,1,Mango
+157,15,0,Mango
+158,9,0,Strawberry
+159,7,0,Chocolate
+160,12,1,Strawberry
+161,17,0,Mango
+162,17,1,Mango
+163,7,0,Strawberry
+164,6,1,Strawberry
+165,21,1,Almond & Chocolate
+166,17,1,Butterscotch
+167,22,1,Coffee
+168,21,0,Coffee
+169,16,1,Butterscotch
+170,8,1,Chocolate
+171,14,1,Butterscotch
+172,16,1,Mango
+173,9,0,Strawberry
+174,9,1,Butterscotch
+175,9,1,Butterscotch
+176,12,1,Strawberry
+177,8,1,Chocolate
+178,15,1,Mango
+179,9,0,Strawberry
+180,15,1,Mango
+181,16,1,Butterscotch
+182,24,0,Almond & Chocolate
+183,19,0,Coffee
+184,15,1,Vanilla
+185,9,1,Strawberry
+186,20,1,Coffee
+187,7,1,Chocolate
+188,15,0,Mango
+189,12,1,Strawberry
+190,6,0,Chocolate
+191,15,0,Vanilla
+192,22,0,Almond & Chocolate
+193,17,1,Butterscotch
+194,8,1,Strawberry
+195,14,1,Butterscotch
+196,21,1,Almond & Chocolate
+197,14,1,Vanilla
+198,10,1,Strawberry
+199,20,0,Coffee
+200,17,0,Mango
+201,24,1,Coffee
+202,10,1,Butterscotch
+203,23,1,Almond & Chocolate
+204,13,0,Butterscotch
+205,24,1,Almond & Chocolate
+206,21,1,Coffee
+207,11,0,Butterscotch
+208,8,1,Strawberry
+209,13,0,Mango
+210,8,1,Chocolate
+211,17,0,Mango
+212,18,1,Mango
+213,9,1,Butterscotch
+214,24,0,Butterscotch
+215,12,1,Strawberry
+216,14,1,Mango
+217,14,0,Butterscotch
+218,11,1,Strawberry
+219,15,0,Butterscotch
+220,6,0,Strawberry
+221,15,0,Butterscotch
+222,13,1,Vanilla
+223,10,1,Butterscotch
+224,13,1,Butterscotch
+225,16,1,Butterscotch
+226,20,1,Butterscotch
+227,7,0,Chocolate
+228,13,1,Vanilla
+229,19,0,Coffee
+230,9,1,Butterscotch
+231,21,0,Butterscotch
+232,17,0,Mango
+233,14,1,Butterscotch
+234,11,1,Butterscotch
+235,13,1,Mango
+236,19,1,Butterscotch
+237,16,1,Mango
+238,22,0,Almond & Chocolate
+239,22,1,Almond & Chocolate
+240,21,0,Almond & Chocolate
+241,14,0,Mango
+242,21,1,Coffee
+243,13,1,Mango
+244,10,0,Butterscotch
+245,11,0,Butterscotch
+246,22,1,Coffee
+247,14,0,Vanilla
+248,13,0,Mango
+249,23,0,Almond & Chocolate
+250,6,1,Chocolate
+251,19,1,Coffee
+252,24,0,Almond & Chocolate
+253,11,0,Butterscotch
+254,10,0,Strawberry
+255,14,1,Mango
+256,9,0,Strawberry
+257,23,0,Butterscotch
+258,12,1,Strawberry
+259,17,1,Butterscotch
+260,10,0,Butterscotch
+261,23,1,Coffee
+262,20,0,Almond & Chocolate
+263,6,0,Chocolate
+264,11,1,Strawberry
+265,23,0,Butterscotch
+266,12,0,Butterscotch
+267,20,1,Butterscotch
+268,11,0,Butterscotch
+269,19,0,Almond & Chocolate
+270,11,0,Butterscotch
+271,17,0,Butterscotch
+272,7,1,Strawberry
+273,18,0,Mango
+274,16,0,Mango
+275,14,1,Mango
+276,14,0,Mango
+277,12,0,Butterscotch
+278,10,0,Strawberry
+279,17,0,Mango
+280,20,0,Coffee
+281,7,1,Chocolate
+282,8,1,Strawberry
+283,12,1,Strawberry
+284,7,1,Chocolate
+285,10,0,Butterscotch
+286,6,0,Strawberry
+287,24,0,Almond & Chocolate
+288,21,1,Almond & Chocolate
+289,23,0,Coffee
+290,21,1,Almond & Chocolate
+291,16,0,Butterscotch
+292,22,0,Almond & Chocolate
+293,22,1,Almond & Chocolate
+294,11,0,Butterscotch
+295,23,0,Coffee
+296,6,1,Chocolate
+297,19,1,Butterscotch
+298,15,1,Vanilla
+299,12,1,Strawberry
+300,19,0,Butterscotch
+301,17,1,Mango
+302,14,0,Vanilla
+303,12,0,Strawberry
+304,21,1,Butterscotch
+305,13,1,Mango
+306,8,0,Chocolate
+307,18,1,Mango
+308,19,1,Butterscotch
+309,15,1,Butterscotch
+310,6,1,Strawberry
+311,14,0,Vanilla
+312,6,0,Chocolate
+313,23,0,Coffee
+314,7,0,Strawberry
+315,12,1,Strawberry
+316,14,1,Vanilla
+317,11,1,Strawberry
+318,22,0,Almond & Chocolate
+319,9,1,Strawberry
+320,23,1,Almond & Chocolate
+321,6,0,Strawberry
+322,10,0,Butterscotch
+323,21,1,Coffee
+324,23,0,Coffee
+325,21,1,Almond & Chocolate
+326,16,1,Mango
+327,11,1,Butterscotch
+328,20,0,Coffee
+329,10,1,Butterscotch
+330,16,1,Butterscotch
+331,9,0,Strawberry
+332,22,1,Butterscotch
+333,19,1,Almond & Chocolate
+334,17,1,Mango
+335,15,0,Mango
+336,11,0,Butterscotch
+337,23,0,Coffee
+338,11,0,Strawberry
+339,24,1,Butterscotch
+340,14,0,Vanilla
+341,7,1,Strawberry
+342,13,1,Vanilla
+343,23,0,Coffee
+344,11,0,Butterscotch
+345,20,0,Butterscotch
+346,19,0,Coffee
+347,20,0,Almond & Chocolate
+348,15,1,Mango
+349,9,0,Strawberry
+350,16,0,Butterscotch
+351,15,0,Mango
+352,12,0,Butterscotch
+353,18,0,Butterscotch
+354,17,1,Mango
+355,10,0,Butterscotch
+356,11,1,Butterscotch
+357,20,1,Almond & Chocolate
+358,6,0,Chocolate
+359,14,0,Vanilla
+360,11,1,Butterscotch
+361,15,0,Vanilla
+362,7,0,Chocolate
+363,9,1,Strawberry
+364,12,1,Butterscotch
+365,15,0,Mango
+366,12,1,Strawberry
+367,11,1,Butterscotch
+368,18,1,Butterscotch
+369,14,0,Butterscotch
+370,22,1,Coffee
+371,8,0,Chocolate
+372,7,1,Chocolate
+373,22,0,Coffee
+374,16,1,Butterscotch
+375,8,1,Strawberry
+376,12,1,Strawberry
+377,13,0,Vanilla
+378,7,1,Chocolate
+379,13,1,Butterscotch
+380,23,1,Almond & Chocolate
+381,18,0,Butterscotch
+382,11,1,Butterscotch
+383,8,1,Chocolate
+384,22,1,Almond & Chocolate
+385,23,1,Coffee
+386,10,0,Butterscotch
+387,22,0,Butterscotch
+388,20,1,Butterscotch
+389,12,0,Strawberry
+390,20,1,Coffee
+391,9,1,Strawberry
+392,17,0,Mango
+393,12,1,Butterscotch
+394,8,1,Chocolate
+395,21,1,Almond & Chocolate
+396,6,0,Chocolate
+397,20,1,Almond & Chocolate
+398,13,0,Vanilla
+399,7,0,Chocolate
+400,20,0,Coffee
+401,18,0,Mango
+402,13,0,Vanilla
+403,7,1,Strawberry
+404,14,1,Vanilla
+405,14,0,Butterscotch
+406,17,1,Mango
+407,14,1,Vanilla
+408,9,0,Strawberry
+409,20,1,Almond & Chocolate
+410,17,1,Butterscotch
+411,10,1,Strawberry
+412,11,0,Butterscotch
+413,10,1,Butterscotch
+414,19,1,Coffee
+415,7,1,Chocolate
+416,20,1,Butterscotch
+417,9,0,Strawberry
+418,20,1,Almond & Chocolate
+419,12,1,Strawberry
+420,8,1,Chocolate
+421,19,0,Almond & Chocolate
+422,21,1,Butterscotch
+423,14,0,Mango
+424,15,0,Mango
+425,9,1,Butterscotch
+426,24,1,Almond & Chocolate
+427,6,0,Chocolate
+428,22,1,Coffee
+429,13,0,Butterscotch
+430,13,1,Butterscotch
+431,12,1,Strawberry
+432,10,1,Strawberry
+433,18,0,Butterscotch
+434,11,1,Butterscotch
+435,7,1,Strawberry
+436,24,0,Coffee
+437,6,1,Chocolate
+438,19,1,Almond & Chocolate
+439,20,1,Butterscotch
+440,10,1,Strawberry
+441,24,1,Almond & Chocolate
+442,15,0,Butterscotch
+443,9,0,Butterscotch
+444,20,1,Coffee
+445,12,1,Strawberry
+446,8,1,Chocolate
+447,18,1,Butterscotch
+448,22,0,Butterscotch
+449,17,1,Mango
+450,17,0,Mango
+451,6,0,Strawberry
+452,14,1,Vanilla
+453,8,1,Chocolate
+454,23,0,Coffee
+455,17,0,Mango
+456,23,1,Butterscotch
+457,24,0,Almond & Chocolate
+458,7,1,Strawberry
+459,10,1,Butterscotch
+460,20,0,Almond & Chocolate
+461,22,1,Coffee
+462,8,1,Chocolate
+463,11,0,Butterscotch
+464,23,1,Almond & Chocolate
+465,12,1,Butterscotch
+466,24,1,Almond & Chocolate
+467,16,0,Mango
+468,23,1,Coffee
+469,22,1,Coffee
+470,15,1,Mango
+471,8,1,Chocolate
+472,12,0,Butterscotch
+473,23,1,Butterscotch
+474,22,1,Almond & Chocolate
+475,18,0,Butterscotch
+476,9,0,Strawberry
+477,17,1,Mango
+478,14,1,Butterscotch
+479,20,1,Almond & Chocolate
+480,14,1,Butterscotch
+481,12,0,Strawberry
+482,14,0,Vanilla
+483,8,0,Strawberry
+484,21,0,Almond & Chocolate
+485,13,0,Mango
+486,17,1,Mango
+487,13,1,Mango
+488,21,0,Butterscotch
+489,12,0,Butterscotch
+490,17,0,Mango
+491,7,0,Chocolate
+492,7,0,Strawberry
+493,8,1,Chocolate
+494,8,0,Chocolate
+495,23,1,Almond & Chocolate
+496,7,0,Chocolate
+497,24,0,Almond & Chocolate
+498,15,0,Butterscotch
+499,15,1,Vanilla
+500,21,1,Almond & Chocolate
+501,7,1,Strawberry
+502,9,1,Butterscotch
+503,8,0,Chocolate
+504,15,1,Vanilla
+505,24,1,Almond & Chocolate
+506,7,1,Strawberry
+507,13,0,Butterscotch
+508,10,0,Butterscotch
+509,17,1,Mango
+510,20,1,Butterscotch
+511,24,1,Almond & Chocolate
+512,15,0,Mango
+513,13,1,Mango
+514,17,1,Mango
+515,10,1,Butterscotch
+516,15,0,Mango
+517,14,1,Vanilla
+518,9,0,Butterscotch
+519,14,1,Butterscotch
+520,12,0,Strawberry
+521,12,1,Butterscotch
+522,17,0,Mango
+523,22,0,Butterscotch
+524,14,0,Mango
+525,12,0,Strawberry
+526,23,1,Butterscotch
+527,17,0,Mango
+528,8,1,Chocolate
+529,24,0,Almond & Chocolate
+530,17,0,Butterscotch
+531,17,1,Butterscotch
+532,11,0,Butterscotch
+533,6,0,Strawberry
+534,20,1,Butterscotch
+535,17,0,Mango
+536,20,1,Almond & Chocolate
+537,7,0,Chocolate
+538,20,1,Butterscotch
+539,18,0,Butterscotch
+540,13,0,Vanilla
+541,20,1,Almond & Chocolate
+542,15,1,Vanilla
+543,13,1,Mango
+544,21,1,Butterscotch
+545,6,0,Strawberry
+546,15,1,Mango
+547,16,0,Mango
+548,11,1,Strawberry
+549,17,1,Butterscotch
+550,19,0,Butterscotch
+551,19,0,Almond & Chocolate
+552,7,0,Chocolate
+553,9,1,Butterscotch
+554,7,0,Strawberry
+555,23,1,Almond & Chocolate
+556,18,1,Mango
+557,11,1,Strawberry
+558,11,1,Strawberry
+559,22,1,Butterscotch
+560,8,0,Chocolate
+561,21,0,Almond & Chocolate
+562,16,1,Butterscotch
+563,22,1,Coffee
+564,14,1,Butterscotch
+565,11,1,Butterscotch
+566,15,1,Mango
+567,16,1,Mango
+568,20,1,Butterscotch
+569,16,1,Butterscotch
+570,14,1,Vanilla
+571,20,0,Butterscotch
+572,8,0,Chocolate
+573,22,1,Coffee
+574,20,0,Coffee
+575,11,1,Strawberry
+576,21,1,Almond & Chocolate
+577,8,0,Strawberry
+578,11,1,Strawberry
+579,7,1,Strawberry
+580,10,0,Butterscotch
+581,9,1,Strawberry
+582,10,0,Strawberry
+583,7,1,Chocolate
+584,20,1,Almond & Chocolate
+585,16,1,Butterscotch
+586,21,0,Almond & Chocolate
+587,19,0,Almond & Chocolate
+588,12,1,Strawberry
+589,22,0,Butterscotch
+590,10,1,Strawberry
+591,23,0,Almond & Chocolate
+592,10,1,Strawberry
+593,9,1,Butterscotch
+594,8,1,Strawberry
+595,24,0,Coffee
+596,22,1,Butterscotch
+597,20,0,Butterscotch
+598,13,1,Butterscotch
+599,7,1,Strawberry
+600,8,0,Chocolate
+601,12,0,Butterscotch
+602,12,1,Butterscotch
+603,10,1,Butterscotch
+604,10,1,Butterscotch
+605,20,1,Coffee
+606,7,1,Chocolate
+607,9,0,Strawberry
+608,14,1,Mango
+609,17,1,Butterscotch
+610,16,1,Mango
+611,22,1,Coffee
+612,23,1,Butterscotch
+613,6,1,Chocolate
+614,16,0,Mango
+615,23,1,Almond & Chocolate
+616,8,0,Chocolate
+617,24,0,Coffee
+618,11,1,Butterscotch
+619,19,1,Almond & Chocolate
+620,24,1,Almond & Chocolate
+621,15,1,Vanilla
+622,21,0,Coffee
+623,17,1,Butterscotch
+624,16,0,Mango
+625,19,1,Almond & Chocolate
+626,10,1,Butterscotch
+627,10,0,Butterscotch
+628,14,1,Butterscotch
+629,7,1,Chocolate
+630,19,0,Coffee
+631,17,0,Butterscotch
+632,24,0,Almond & Chocolate
+633,19,1,Coffee
+634,17,0,Butterscotch
+635,16,1,Butterscotch
+636,8,1,Chocolate
+637,20,1,Coffee
+638,23,0,Almond & Chocolate
+639,10,0,Butterscotch
+640,17,1,Mango
+641,24,1,Butterscotch
+642,7,1,Chocolate
+643,10,1,Strawberry
+644,10,0,Strawberry
+645,21,1,Butterscotch
+646,10,0,Strawberry
+647,13,0,Mango
+648,21,1,Butterscotch
+649,8,0,Chocolate
+650,7,0,Strawberry
+651,17,1,Butterscotch
+652,6,1,Chocolate
+653,16,0,Butterscotch
+654,9,1,Butterscotch
+655,18,1,Mango
+656,19,1,Coffee
+657,16,1,Butterscotch
+658,22,1,Butterscotch
+659,14,1,Vanilla
+660,17,0,Butterscotch
+661,8,1,Strawberry
+662,12,1,Strawberry
+663,11,0,Strawberry
+664,8,0,Chocolate
+665,13,1,Mango
+666,20,1,Coffee
+667,23,0,Coffee
+668,18,1,Mango
+669,7,1,Chocolate
+670,19,0,Almond & Chocolate
+671,14,1,Butterscotch
+672,15,0,Mango
+673,9,1,Butterscotch
+674,22,1,Coffee
+675,9,1,Butterscotch
+676,22,0,Butterscotch
+677,8,0,Strawberry
+678,8,0,Strawberry
+679,20,1,Almond & Chocolate
+680,23,1,Butterscotch
+681,10,1,Strawberry
+682,6,1,Strawberry
+683,7,1,Chocolate
+684,12,1,Butterscotch
+685,23,1,Almond & Chocolate
+686,12,0,Butterscotch
+687,13,1,Butterscotch
+688,6,0,Chocolate
+689,9,1,Strawberry
+690,14,1,Mango
+691,8,0,Strawberry
+692,24,0,Coffee
+693,11,1,Butterscotch
+694,17,1,Mango
+695,21,1,Coffee
+696,18,0,Mango
+697,19,1,Coffee
+698,22,1,Butterscotch
+699,23,0,Almond & Chocolate
+700,17,0,Mango
+701,8,0,Strawberry
+702,18,0,Mango
+703,20,1,Almond & Chocolate
+704,10,0,Strawberry
+705,8,0,Strawberry
+706,22,0,Almond & Chocolate
+707,13,0,Butterscotch
+708,21,0,Butterscotch
+709,16,1,Mango
+710,18,0,Mango
+711,6,0,Strawberry
+712,9,0,Butterscotch
+713,20,1,Butterscotch
+714,19,1,Butterscotch
+715,11,1,Butterscotch
+716,10,1,Strawberry
+717,22,1,Almond & Chocolate
+718,19,1,Butterscotch
+719,6,0,Chocolate
+720,13,1,Butterscotch
+721,14,1,Butterscotch
+722,18,0,Mango
+723,16,0,Butterscotch
+724,9,1,Butterscotch
+725,14,1,Butterscotch
+726,8,1,Chocolate
+727,18,0,Butterscotch
+728,15,1,Butterscotch
+729,19,1,Almond & Chocolate
+730,13,0,Butterscotch
+731,14,0,Butterscotch
+732,15,0,Mango
+733,16,1,Butterscotch
+734,23,1,Almond & Chocolate
+735,8,0,Chocolate
+736,11,0,Butterscotch
+737,17,1,Butterscotch
+738,16,0,Butterscotch
+739,23,1,Coffee
+740,10,1,Strawberry
+741,20,0,Butterscotch
+742,8,0,Strawberry
+743,6,1,Chocolate
+744,22,1,Almond & Chocolate
+745,23,0,Coffee
+746,20,0,Butterscotch
+747,21,0,Butterscotch
+748,11,0,Strawberry
+749,10,1,Strawberry
+750,9,0,Strawberry
+751,15,1,Mango
+752,20,0,Almond & Chocolate
+753,23,1,Butterscotch
+754,10,1,Butterscotch
+755,19,0,Butterscotch
+756,6,1,Strawberry
+757,16,1,Mango
+758,9,1,Strawberry
+759,7,0,Strawberry
+760,11,1,Strawberry
+761,13,0,Butterscotch
+762,14,0,Butterscotch
+763,8,1,Chocolate
+764,23,0,Coffee
+765,14,1,Butterscotch
+766,14,0,Butterscotch
+767,14,0,Mango
+768,10,1,Strawberry
+769,20,1,Coffee
+770,11,1,Strawberry
+771,19,0,Butterscotch
+772,15,0,Mango
+773,12,0,Butterscotch
+774,19,0,Almond & Chocolate
+775,21,0,Coffee
+776,13,1,Vanilla
+777,22,0,Almond & Chocolate
+778,21,1,Coffee
+779,8,1,Strawberry
+780,7,0,Chocolate
+781,8,0,Chocolate
+782,24,1,Coffee
+783,10,0,Butterscotch
+784,8,0,Strawberry
+785,7,0,Strawberry
+786,7,1,Chocolate
+787,24,1,Almond & Chocolate
+788,14,0,Butterscotch
+789,23,1,Almond & Chocolate
+790,9,1,Strawberry
+791,17,0,Mango
+792,23,1,Coffee
+793,15,1,Vanilla
+794,21,1,Butterscotch
+795,12,1,Butterscotch
+796,14,0,Butterscotch
+797,13,1,Mango
+798,17,1,Mango
+799,22,0,Coffee
+800,10,0,Butterscotch
+801,23,1,Butterscotch
+802,12,0,Butterscotch
+803,9,1,Strawberry
+804,22,0,Almond & Chocolate
+805,20,1,Almond & Chocolate
+806,17,1,Mango
+807,11,0,Strawberry
+808,18,1,Mango
+809,10,1,Butterscotch
+810,9,1,Butterscotch
+811,24,1,Butterscotch
+812,18,0,Mango
+813,17,0,Butterscotch
+814,12,0,Butterscotch
+815,14,1,Vanilla
+816,10,0,Butterscotch
+817,21,0,Butterscotch
+818,9,1,Strawberry
+819,19,1,Coffee
+820,9,1,Butterscotch
+821,11,0,Butterscotch
+822,24,0,Butterscotch
+823,20,0,Coffee
+824,12,1,Strawberry
+825,12,0,Strawberry
+826,9,1,Strawberry
+827,15,0,Mango
+828,11,0,Strawberry
+829,23,0,Almond & Chocolate
+830,20,0,Coffee
+831,10,1,Strawberry
+832,12,1,Strawberry
+833,19,0,Butterscotch
+834,6,0,Strawberry
+835,17,0,Mango
+836,23,1,Almond & Chocolate
+837,23,1,Coffee
+838,7,1,Strawberry
+839,16,0,Butterscotch
+840,9,1,Strawberry
+841,24,0,Almond & Chocolate
+842,24,1,Almond & Chocolate
+843,18,0,Butterscotch
+844,13,0,Mango
+845,23,0,Coffee
+846,21,1,Almond & Chocolate
+847,8,1,Strawberry
+848,17,1,Mango
+849,8,1,Chocolate
+850,12,1,Strawberry
+851,6,0,Strawberry
+852,20,0,Almond & Chocolate
+853,12,0,Butterscotch
+854,22,0,Almond & Chocolate
+855,11,0,Strawberry
+856,23,1,Almond & Chocolate
+857,21,0,Coffee
+858,17,1,Butterscotch
+859,21,0,Butterscotch
+860,20,0,Coffee
+861,21,1,Almond & Chocolate
+862,21,1,Butterscotch
+863,17,1,Butterscotch
+864,17,0,Butterscotch
+865,24,0,Almond & Chocolate
+866,15,0,Butterscotch
+867,19,1,Almond & Chocolate
+868,10,1,Strawberry
+869,8,1,Strawberry
+870,7,1,Strawberry
+871,16,1,Butterscotch
+872,11,1,Strawberry
+873,14,1,Butterscotch
+874,11,0,Butterscotch
+875,11,1,Butterscotch
+876,23,1,Coffee
+877,16,1,Butterscotch
+878,13,0,Mango
+879,21,1,Butterscotch
+880,6,0,Chocolate
+881,23,0,Coffee
+882,17,0,Butterscotch
+883,21,1,Butterscotch
+884,23,1,Almond & Chocolate
+885,12,0,Butterscotch
+886,6,1,Chocolate
+887,12,0,Butterscotch
+888,23,0,Butterscotch
+889,18,1,Mango
+890,10,0,Strawberry
+891,15,0,Vanilla
+892,13,1,Butterscotch
+893,17,0,Mango
+894,14,1,Butterscotch
+895,23,1,Almond & Chocolate
+896,7,1,Chocolate
+897,24,1,Butterscotch
+898,9,1,Strawberry
+899,8,1,Strawberry
+900,19,1,Coffee
+901,10,1,Butterscotch
+902,12,0,Butterscotch
+903,24,1,Coffee
+904,14,1,Mango
+905,7,0,Chocolate
+906,12,1,Butterscotch
+907,15,1,Butterscotch
+908,20,1,Coffee
+909,10,1,Strawberry
+910,8,0,Chocolate
+911,15,0,Vanilla
+912,16,1,Butterscotch
+913,23,0,Coffee
+914,11,0,Strawberry
+915,24,0,Coffee
+916,16,1,Butterscotch
+917,18,0,Mango
+918,22,1,Coffee
+919,11,0,Butterscotch
+920,17,0,Mango
+921,10,1,Strawberry
+922,23,0,Coffee
+923,20,1,Coffee
+924,8,1,Strawberry
+925,21,1,Coffee
+926,23,1,Coffee
+927,16,0,Mango
+928,21,1,Coffee
+929,12,1,Strawberry
+930,16,0,Mango
+931,23,1,Almond & Chocolate
+932,20,0,Butterscotch
+933,19,0,Almond & Chocolate
+934,11,1,Butterscotch
+935,10,0,Butterscotch
+936,18,1,Mango
+937,22,1,Almond & Chocolate
+938,21,0,Almond & Chocolate
+939,12,1,Strawberry
+940,6,1,Chocolate
+941,18,0,Mango
+942,23,0,Butterscotch
+943,24,0,Butterscotch
+944,16,1,Mango
+945,23,1,Butterscotch
+946,6,1,Strawberry
+947,9,0,Butterscotch
+948,17,1,Butterscotch
+949,13,0,Butterscotch
+950,15,1,Butterscotch
+951,22,0,Butterscotch
+952,18,1,Mango
+953,9,0,Butterscotch
+954,24,1,Butterscotch
+955,16,1,Butterscotch
+956,6,0,Chocolate
+957,9,1,Butterscotch
+958,23,0,Coffee
+959,18,0,Mango
+960,18,1,Butterscotch
+961,9,1,Butterscotch
+962,20,1,Coffee
+963,14,1,Butterscotch
+964,13,1,Butterscotch
+965,15,0,Mango
+966,20,1,Butterscotch
+967,8,1,Chocolate
+968,15,0,Vanilla
+969,6,0,Chocolate
+970,8,1,Chocolate
+971,6,0,Strawberry
+972,22,0,Butterscotch
+973,11,1,Strawberry
+974,24,0,Butterscotch
+975,9,0,Butterscotch
+976,10,0,Strawberry
+977,10,0,Strawberry
+978,15,1,Mango
+979,22,0,Butterscotch
+980,7,1,Strawberry
+981,15,0,Butterscotch
+982,10,0,Strawberry
+983,8,0,Chocolate
+984,18,1,Mango
+985,20,1,Almond & Chocolate
+986,19,1,Coffee
+987,19,1,Coffee
+988,18,1,Butterscotch
+989,12,1,Butterscotch
+990,8,0,Chocolate
+991,10,0,Butterscotch
+992,10,1,Strawberry
+993,10,1,Strawberry
+994,18,0,Butterscotch
+995,13,1,Butterscotch
+996,7,1,Chocolate
+997,16,1,Butterscotch
+998,14,0,Mango
+999,23,0,Almond & Chocolate
+1000,21,1,Almond & Chocolate
+1001,24,0,Coffee
+1002,6,1,Chocolate
+1003,19,0,Almond & Chocolate
+1004,9,0,Strawberry
+1005,20,1,Butterscotch
+1006,21,0,Coffee
+1007,12,0,Strawberry
+1008,14,1,Vanilla
+1009,14,1,Mango
+1010,12,1,Butterscotch
+1011,15,0,Vanilla
+1012,15,1,Vanilla
+1013,20,0,Butterscotch
+1014,22,0,Almond & Chocolate
+1015,18,1,Mango
+1016,13,0,Vanilla
+1017,23,0,Butterscotch
+1018,21,0,Coffee
+1019,22,1,Coffee
+1020,11,0,Butterscotch

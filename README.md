@@ -1,4 +1,4 @@
-# Ice Cream Flavour Prediction Project 🍦
+#  Flavour Predictor 🍦
 
 A machine learning project that predicts ice cream flavour preferences based on age and gender using synthetic data and multiple classification algorithms.
 
@@ -158,7 +158,7 @@ pip install pandas scikit-learn imbalanced-learn xgboost matplotlib seaborn
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/flavour-prediction.git
+git clone https://github.com/DaRkAnon1mous/Flavour-Predictor.git
 cd flavour-prediction
 ```
 
